@@ -1,7 +1,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT Licence][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]()
+[![LinkedIn][linkedin-shield]][linkedin-url](https://www.linkedin.com/in/freddy-ramos-zenteno-816492181)
 
 # Gyphy API - Flutter App
 
@@ -37,7 +37,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+   <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/stargazers

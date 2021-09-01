@@ -31,12 +31,31 @@
 
 ## About The Project
 
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="#">
+    <img src="#"/></a>
+</td>
+<td style="text-align: center">
+<img src="#" width="400"/>
+</td>
+  <td style="text-align: center">
+<img src="#" width="200"/>
+</td>
+</td>
+  <td style="text-align: center">
+
+</td>
+
+
+</tr></table></div>
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
+
 
 ### Packages we are using
 

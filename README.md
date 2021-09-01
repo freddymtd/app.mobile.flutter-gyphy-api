@@ -1,7 +1,7 @@
-[![Stargazers][stars-shield]](https://github.com/freddymtd/app.mobile.flutter-gyphy-api/stargazers)
-[![Issues][issues-shield]](https://github.com/freddymtd/app.mobile.flutter-gyphy-api/issues)
-[![MIT Licence][license-shield]](https://github.com/freddymtd/app.mobile.flutter-gyphy-api/blob/main/LICENSE)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/freddy-ramos-zenteno-816492181)
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT Licence][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]()
 
 # Gyphy API - Flutter App
 
@@ -40,10 +40,10 @@ samples, guidance on mobile development, and a full API reference.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/freddy-ramos-zenteno-816492181

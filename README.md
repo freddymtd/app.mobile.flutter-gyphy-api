@@ -1,7 +1,7 @@
-[![Stargazers][stars-shield]][https://github.com/freddymtd/app.mobile.flutter-gyphy-api/stargazers]
-[![Issues][issues-shield]][https://github.com/freddymtd/app.mobile.flutter-gyphy-api/issues]
-[![MIT Licence][license-shield]][https://github.com/freddymtd/app.mobile.flutter-gyphy-api/blob/main/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/freddy-ramos-zenteno-816492181]
+[![Stargazers][stars-shield]](https://github.com/freddymtd/app.mobile.flutter-gyphy-api/stargazers)
+[![Issues][issues-shield]](https://github.com/freddymtd/app.mobile.flutter-gyphy-api/issues)
+[![MIT Licence][license-shield]](https://github.com/freddymtd/app.mobile.flutter-gyphy-api/blob/main/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/freddy-ramos-zenteno-816492181)
 
 # Gyphy API - Flutter App
 

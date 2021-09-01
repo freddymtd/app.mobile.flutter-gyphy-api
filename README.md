@@ -1,7 +1,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT Licence][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url](https://www.linkedin.com/in/freddy-ramos-zenteno-816492181)
+[![LinkedIn][linkedin-shield]][linkedin-url][https://www.linkedin.com/in/freddy-ramos-zenteno-816492181]
 
 # Gyphy API - Flutter App
 

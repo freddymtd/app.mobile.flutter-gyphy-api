@@ -37,9 +37,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-   <!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+
+[stars-shield]: https://img.shields.io/github/stars/freddymtd/app.mobile.flutter-gyphy-api.svg?style=for-the-badge
 [stars-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/issues

@@ -42,9 +42,9 @@ samples, guidance on mobile development, and a full API reference.
 
 [stars-shield]: https://img.shields.io/github/stars/freddymtd/app.mobile.flutter-gyphy-api.svg?style=for-the-badge
 [stars-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/freddymtd/app.mobile.flutter-gyphy-api.svg?style=for-the-badge
 [issues-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/freddymtd/app.mobile.flutter-gyphy-api.svg?style=for-the-badge
 [license-url]: https://github.com/freddymtd/app.mobile.flutter-gyphy-api/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/freddy-ramos-zenteno-816492181

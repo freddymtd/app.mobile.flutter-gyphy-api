@@ -5,61 +5,58 @@
 
 # Gyphy API - Flutter App
 
+<p align="center">
+<a href="#"><img src="https://developers.giphy.com/branch/master/static/header-logo-8974b8ae658f704a5b48a2d039b8ad93.gif"></a>
+</p>
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">💻 About The Project</a>
       <ul>
         <li><a href="#packages">Packages we are using</a></li>
         <li><a href="#fonts">Fonts we are using</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">📓 Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">🚧 Contributing</a></li>
+    <li><a href="#license">📝 License</a></li>
+    <li><a href="#contact">📞 Contact</a></li>
   </ol>
 </details>
 
 
-## About The Project
+## 💻 About The Project
 
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="#">
-    <img src="#"/></a>
-</td>
-<td style="text-align: center">
-<img src="#" width="400"/>
-</td>
-  <td style="text-align: center">
-<img src="#" width="200"/>
-</td>
-</td>
-  <td style="text-align: center">
+<div style="text-align: center">
+  <table>
+    <tr>
+      <td style="text-align: center">
+        <a href="#"><img src="lib/assets/readme/screen1.gif"></a>
+      </td>
+      <td style="text-align: center">
+        <a href="#"><img src="lib/assets/readme/screen2.gif"></a>
+      </td>
+      <td style="text-align: center">
+        <a href="#"><img src="lib/assets/readme/screen3.gif"></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-</td>
-
-
-</tr></table></div>
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+There are two pages, you can call it home page and details. On the home page, you can view a list of de most twenty trending gifs in the gyphy api. After that if on tap a gif model you will be taken to the details page. Lastly, at the bottom you got a botton if you click you will reload the state with twenty gifs.
 
 
-### Packages we are using
+### Packages
 
 * [Material](https://api.flutter.dev/flutter/material/material-library.html)
+* [Http](https://pub.dev/packages/http)
 
 ### Fonts
 
@@ -68,47 +65,50 @@ Here's why:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📓 Getting Started
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+First, you need get your API Key on [GIPHY Developers](https://developers.giphy.com/docs/sdk/) to run the project.
+
+or use
+- The public beta/test key is "dc6zaTOxFJmzC”
+
+You need to set followings key-values in `lib/ui/home_page`.
+The values are read at [here](https://github.com/yt-tkhs/superheroes/blob/master/shared/data/build.gradle.kts).
+
+| Key | Value |
+|:----|:------|
+| `yourApiKey` | Public key for Gyphy API  |
+
+
+Example:
+```
+yourApiKey = 'Enter your key';
+```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Get a free API Key at step prerequisites
+2. Clone the repository
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/freddymtd/app.mobile.flutter-gyphy-api.git
    ```
-3. Install NPM packages
+3. Get the dependecies
    ```sh
-   npm install
+   flutter pub get
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `home_page.dart`
    ```JS
-   const API_KEY = 'ENTER YOUR API';
+   const yourApiKey = 'Enter your key';
    ```
    
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🚧 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -120,14 +120,14 @@ Contributions are what make the open source community such an amazing place to l
 
 
 <!-- LICENSE -->
-## License
+## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+## 📞 Contact
 
 Freddy Zenteno - freddy-zenteno@hotmail.com
 

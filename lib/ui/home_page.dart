@@ -17,12 +17,14 @@ class _HomePageState extends State<HomePage> {
   Future<Map> _getGifs() async {
     http.Response response;
 
+    const yourApiKey = 'dc6zaTOxFJmzC';
+
     if (_search == null)
       response = await http.get(
-          "https://api.giphy.com/v1/gifs/trending?api_key=161p30Vzsku3sNfPoLGXM3WlfLXxDchx&limit=20&rating=g");
+          "https://api.giphy.com/v1/gifs/trending?api_key=$yourApiKey&limit=20&rating=g");
     else
       response = await http.get(
-          "https://api.giphy.com/v1/gifs/search?api_key=161p30Vzsku3sNfPoLGXM3WlfLXxDchx&q=$_search&limit=19&offset=$_offset&rating=g&lang=pt");
+          "https://api.giphy.com/v1/gifs/search?api_key=$yourApiKey&q=$_search&limit=19&offset=$_offset&rating=g&lang=pt");
     return json.decode(response.body);
   }
 
